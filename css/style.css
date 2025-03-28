@@ -87,7 +87,7 @@ header nav ul li a{
     color: rgba(255, 255, 255, 0.81);
 }
 
-.brand .container1 h2:last-of-type:before{
-    content: " ";
-    border: 2px solid black;
-}
+/*.brand .container1 h2:last-of-type:before{*/
+/*    content: " ";*/
+/*    border: 2px solid black;*/
+/*}*/
